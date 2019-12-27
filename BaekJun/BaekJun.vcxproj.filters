@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1712_손익분기점.c">
+    <ClCompile Include="2839_설탕배달.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="2839_설탕배달.c">
+    <ClCompile Include="1712_손익분기점%28완료%29.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

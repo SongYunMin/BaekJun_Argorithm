@@ -138,7 +138,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="1712_손익분기점.c" />
+    <ClCompile Include="1712_손익분기점%28완료%29.c" />
     <ClCompile Include="2839_설탕배달.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
